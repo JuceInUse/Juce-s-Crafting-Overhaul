@@ -1,0 +1,33 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_sapling": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "minecraft:saplings"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "juces_recipe_overhaul:dead_bush"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_sapling"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "juces_recipe_overhaul:dead_bush"
+    ]
+  },
+  "sends_telemetry_event": false
+}

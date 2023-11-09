@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_tube_coral_fan": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:tube_coral_fan"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "juces_recipe_overhaul:dead_tube_coral_fan"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_tube_coral_fan"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "juces_recipe_overhaul:dead_tube_coral_fan"
+    ]
+  },
+  "sends_telemetry_event": false
+}
