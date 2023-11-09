@@ -1,0 +1,88 @@
+Initial Release
+
+- Added Anvil Repairing
+ - Chipped Anvil + [Chipped Anvil/Damaged Anvil] = Anvil
+ - Chipped Anvil Surrounded by Iron Ingots = Anvil
+ - Damaged Anvil + Damaged Anvil = Chipped Anvil
+ - Damaged Anvil Surrounded by Iron Ingots = Chipped Anvil
+
+- Added Chainmail Recipes
+ - Includes Helmet, Chestplate, Leggings, and Boots Made of Chains
+
+- Expanded Horse Armor
+ - Uses "H" Pattern With Desired Material
+ - Mimics Leather Horse Armor Recipe
+
+- Added Alternate Recipes
+ - Bow Recipe + Dropper in Center = Dispenser
+ - Dropper + Bow = Dispenser
+ - Iron and Redstone in Piston Can be place-Swapped
+ - Boat Recipe + Chest in Middle = Chest Boat
+ - Minecart Recipe + Material in Middle = Item Minecart
+
+- Expanded Redying
+ - Dye + Concrete Powder = Redyed Concrete Powder
+ - Dye + Glazed Terracotta = Redyed Glazed Terracotta
+ - Dye + Stained Glass = Restained Glass
+ - Dye + Banner = Redyed Banner
+ - Dye + Candle = Redyed Candle
+
+- Added New Craftables
+ - Paper + Paper + String in "/" Pattern = Name Tag
+ - Leather in Top Slots + String in Middle + Iron Nugget in Bottom Middle = Saddle
+
+- Expanded Smelting
+ - Can Burn Moss Off of Mossy Blocks
+ - Can Smelt Stairs and Slabs as You Would Full Blocks
+
+- Expanded Smoking
+ - Can Kill Coral And Saplings in Smoker
+ - Can Smoke Logs
+ - Can Smoke Cactus
+
+- Expanded Blasting
+ - Can Blast Raw Blocks
+ - Can Blast Obsidian Into Crying Obsidian
+ - Can Blast Blocks into Smooth Blocks
+
+- More Output
+ - 4 Doors Per Craft
+ - 4 Wood/Hyphae Per Craft
+ - 4 Hanging Signs Per Craft
+ - 4 Signs Per Craft
+ - 4 Fences And Fence Gates Per Craft
+ - 8 Trapdoors Per Craft
+ - 8 Pressure Plates Per Craft
+ - 8 Buttons Per Craft
+ - 4 Andesite, Diorite, And Granite Per Craft
+ - 2 Beehives Per Craft
+ - 12 Walls Per Craft
+ - 4 Banners Per Craft
+ - 12 Carpets/Snow Layers Per Craft
+ - 16 of All Rail Types Per Craft
+ - 3 Flower Pots Per Craft
+ - 4 Levers Per Craft
+ - 8 Cyan Dye Per Pitcher Plant
+ - 8 Orange Dye Per Torchflower
+ - 4 Black Dye Per Wither Rose
+ - 4 Blue Dye Per Lapis
+ - 8 Arrows Per Craft
+ - 2 Walls Per Stonecutter
+
+- More Shapeless Options
+ - Jack O'Lantern Made Shapeless
+ - Sticky Piston Made Shapeless
+ - Shulker Box Made Shapeless
+
+- Redid Vanilla Recipes
+ - Hanging Sign Uses Planks in Place of Stripped Logs
+ - Planks and Slabs Swapped on Barrel
+ - Blue/Packed Ice Uses 4 Instead of 9
+ - Slime Blocks Use 4 Slime Balls Instead of 9
+ - Bottom Layer of Stair Recipe Removed
+ - Terracotta Redying Matches Other Redying
+ - Glass Pane Redying Matches Other Redying
+ - Popped Chorus Fruit of End Rods Swapped For Purpur Slabs & Give 8
+ - Iron Ingot in Crossbow Swapped For Iron Nugget
+ - Iron Ingot in Chain Swapped For Iron Nugget
+ - Beetroot Soup Only Requires 2 Beetroots
