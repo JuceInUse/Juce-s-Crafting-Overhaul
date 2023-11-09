@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smoking",
+  "category": "blocks",
+  "cookingtime": 20,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "minecraft:fire_coral_fan"
+  },
+  "result": "minecraft:dead_fire_coral_fan"
+}
