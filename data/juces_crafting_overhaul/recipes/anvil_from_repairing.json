@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "a": {
+      "item": "minecraft:chipped_anvil"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "iii",
+    "iai",
+    "iii"
+  ],
+  "result": {
+    "item": "minecraft:anvil"
+  },
+  "show_notification": true
+}
